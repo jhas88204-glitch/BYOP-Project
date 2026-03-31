@@ -15,8 +15,8 @@ Python ka use karke data visualize kiya gaya aur relationship analyze kiya gaya.
 - Matplotlib
 
 ##  How to Run
-1. Python install karo
-2. Libraries install karo:
+1. install python
+2. Install python libariry :
    pip install numpy matplotlib
 3. Run command:
    python analysis.py
